@@ -1,0 +1,20 @@
+"Stack"
+0.implement stack using array and linkedlist
+1.reverse a string using stack.
+2.valid paraentis;
+3.infix to postfix
+4.postfix to prefix
+5.postfix expersion evalution
+6.next greater element
+7.stock spam problem
+8.monotonic stack problem
+9.min stack(top,push,pop)(0(1))
+10.water flow problem
+"Queue"
+11.implement queue using linkedlist and array
+12.implement queue using stack
+13.implement queue using two queue
+14.using queue genrate binary number from 1 to n
+15.sort a stack using another stack
+16.delete middle element from stack
+17.clebrity problem(stack)
